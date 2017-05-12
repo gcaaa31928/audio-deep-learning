@@ -1,0 +1,5 @@
+matplotlib
+scipy
+python_speech_features
+librosa
+aupyom
